@@ -41,24 +41,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 ![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
 - Login Popup
 
-## Run Locally
 
-Clone the project
-
-```bash
-    git clone https://github.com/Mshandev/Food-Delivery
-```
-Go to the project directory
-
-```bash
-    cd Food-Delivery
-```
-Install dependencies (frontend)
-
-```bash
-    cd frontend
-    npm install
-```
 Install dependencies (admin)
 
 ```bash
